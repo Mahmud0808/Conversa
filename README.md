@@ -3,7 +3,7 @@ Conversa is an intelligent chatbot integrated into the Gemini API Android app, e
 
 ## Screenshots 📱
 <div align="center">
-<img src="https://github.com/Mahmud0808/Conversa/blob/master/screenshots/convo.jpg" width="20%" /> <img src="https://github.com/Mahmud0808/Conversa/blob/master/screenshots/no_convo.jpg" width="20%" />
+<img src="https://github.com/Mahmud0808/Conversa/blob/master/screenshots/no_convo.jpg" width="20%" /> <img src="https://github.com/Mahmud0808/Conversa/blob/master/screenshots/convo.jpg" width="20%" />
 </div>
 
 ## Architecture 🗼

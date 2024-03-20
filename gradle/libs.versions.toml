@@ -1,8 +1,8 @@
 [versions]
-agp = "8.3.0"
+agp = "8.3.1"
 coilCompose = "2.4.0"
 composeMarkdown = "0.4.1"
-generativeai = "0.2.1"
+generativeai = "0.2.2"
 kotlin = "1.9.0"
 coreKtx = "1.12.0"
 junit = "4.13.2"
@@ -10,9 +10,9 @@ junitVersion = "1.1.5"
 espressoCore = "3.5.1"
 lifecycleRuntimeKtx = "2.7.0"
 activityCompose = "1.8.2"
-composeBom = "2024.02.01"
+composeBom = "2024.03.00"
 material = "1.11.0"
-materialIconsExtended = "1.6.3"
+materialIconsExtended = "1.6.4"
 secretsGradlePlugin = "2.0.1"
 
 [libraries]
